@@ -53,3 +53,6 @@ E:\我的坚果云\code\DownLoadPaper\bin\Debug\IronPython.Wpf.xml
 E:\我的坚果云\code\DownLoadPaper\bin\Debug\Microsoft.Dynamic.xml
 E:\我的坚果云\code\DownLoadPaper\bin\Debug\Microsoft.Scripting.xml
 E:\我的坚果云\code\DownLoadPaper\bin\Debug\Microsoft.Scripting.Metadata.xml
+F:\code\DownLoadPaper\bin\Debug\DownLoadPaper.exe.config
+F:\code\DownLoadPaper\obj\Debug\DownLoadPaper.exe
+F:\code\DownLoadPaper\obj\Debug\DownLoadPaper.pdb
